@@ -25,6 +25,6 @@ public interface IRegistry {
      * @params
      * @return
      */
-    void reportThreadPoolConfigParameters(ThreadPoolConfigEntity threadPoolConfigEntity);
+    void reportThreadPoolConfigParameter(ThreadPoolConfigEntity threadPoolConfigEntity);
 
 }
